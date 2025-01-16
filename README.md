@@ -25,3 +25,38 @@ Key Steps
 3. Model Training
 
 Trained various machine learning models, including:
+
+•	Logistic Regression
+	
+ •	Decision Trees
+	
+ •	Random Forest
+	
+ •	XGBoost
+
+4. Evaluation
+
+Models were evaluated using metrics such as:
+	
+ •	Accuracy
+	
+ •	Precision
+	
+ •	Recall
+	
+ •	F1-Score
+	
+ •	AUC-ROC
+
+ Results
+	
+ •	The XGBOOST model achieved the highest performance with an accuracy of 80%.
+	
+ •	Feature importance analysis showed that Credit History, Loan Amount, Total Income and EMI were the most significant predictors.
+
+ Technologies Used
+	
+ •	Languages: Python
+	
+ •	Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
+
